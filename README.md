@@ -7,5 +7,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonas-Zielke&show_icons=true&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jonas-zielke&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonas-Zielke&show_icons=true&theme=dark" height="150" alt="languages graph"  />
 </div>
