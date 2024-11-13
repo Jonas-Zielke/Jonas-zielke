@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonas Zielke
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and Rust
 <!---
 Jonas-zielke/Jonas-zielke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=Jonas-Zielke&show_icons=true&theme=dark" height="150" alt="languages graph"  />
 <img src="https://github-readme-stats.vercel.app/api?username=Kanonenbombe&show_icons=true&theme=dark" height="150" alt="languages graph"  />
 </div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CPCluster&repo=CPCluster" height="150" alt="languages graph"  />
