@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=Jonas-Zielke&show_icons=true&theme=dark" height="150" alt="languages graph"  />
 <img src="https://github-readme-stats.vercel.app/api?username=Kanonenbombe&show_icons=true&theme=dark" height="150" alt="languages graph"  />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CPCluster&repo=CPCluster" height="150" alt="languages graph"  />
+
